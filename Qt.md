@@ -400,6 +400,8 @@ QMenuBar {//Qt控件样式
 #label{//objectname样式
 	border-image:url(:images/ink.jpg);  //
 }
-.PaintWidget{//自定义类样式}
+.PaintWidget{
+    //自定义类样式
+}
 ```
 
